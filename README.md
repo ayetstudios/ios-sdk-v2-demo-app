@@ -47,7 +47,9 @@ struct AyetConfig {
 }
 ```
 
-**Note**: The bundle identifier must be set to `com.ayetsdk.iosSdkV2DemoApp` in your placement settings to use the demo app.
+**Note**: The bundle identifier must be set to `com.ayetsdk.iosSdkV2DemoApp` in your placement settings to use the demo app:
+<img width="1168" height="304" alt="image" src="https://github.com/user-attachments/assets/2c0b99a9-f48e-4efe-8346-57ecd9902874" />
+
 
 ## Features Demonstrated
 
