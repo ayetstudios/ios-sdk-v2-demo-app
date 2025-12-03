@@ -1,0 +1,15 @@
+{
+  "originHash" : "eefc9c326eda7ee4c6a1821208a39b4ef189185eac344690877618fa3e7110e2",
+  "pins" : [
+    {
+      "identity" : "ios-sdk-v2-repo",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ayetstudios/ios-sdk-v2-repo",
+      "state" : {
+        "branch" : "main",
+        "revision" : "83d9622d71557875d1efbdf88684cf7fc56b1a22"
+      }
+    }
+  ],
+  "version" : 3
+}
