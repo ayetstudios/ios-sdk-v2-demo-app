@@ -1,6 +1,12 @@
 # Ayet iOS SDK v2 Demo App
 
 A demo application showcasing the integration of the [Ayet iOS SDK v2](https://github.com/ayetstudios/ios-sdk-v2-repo).
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/df93f0ab-581c-452d-bb72-69e0a093668a" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/9dc01964-2c7a-4056-853a-8479c2ec49ca" width="250"></td>
+  </tr>
+</table>
 
 ## Requirements
 
